@@ -11,9 +11,9 @@ This a crowdsourcing website for available learning hubs to the nearest area of 
 
 ## Technologies
 - [x] HTML
-- [] CSS
-- [] PHP
-- [] JS
+- [ ] CSS
+- [ ] PHP
+- [ ] JS
 
 
 
